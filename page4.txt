@@ -21,8 +21,11 @@
         <label>class</label><br>
         <select>
         <option>X ICT</option>
-        <option>X SCIENCES</option>
-        <option>X bUSINESS</option>
+        <option>X Science</option>
+        <option>X Business</option>
+        <option>XI ICT</option>
+        <option>XI Science</option>
+        <option>XI Business</option>
         <select>
         <br><br> 
         <label>Gender</label><br>
@@ -34,6 +37,8 @@
         <input type="checkbox">CSS
         <input type="checkbox">JavaScript
         <br><br>
+        <label>About Yourself</label><br>
+        <textarea rows="4" Cols="40"></textarea>
         <button type="submit">Submit</button>
         <button type="reset">Reset</button>
     </form>
