@@ -20,6 +20,10 @@
         <input type="date"><br><br>
         <label>class</label><br>
         <select>
+        <option>X ICT</option>
+        <option>X SCIENCES</option>
+        <option>X bUSINESS</option>
+        <select>
         <br><br> 
         <label>Gender</label><br>
         <input type="radio" name=gender>Male
