@@ -26,7 +26,12 @@
         <input type="radio" name=gender>Female
         <br><br>
         <label>Skills</label><br>
-        <input
+        <input type="checkbox">HTML
+        <input type="checkbox">CSS
+        <input type="checkbox">JavaScript
+        <br><br>
+        <button type="submit">Submit</button>
+        <button type="reset">Reset</button>
     </form>
 </body>
 </html>
