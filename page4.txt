@@ -39,6 +39,7 @@
         <br><br>
         <label>About Yourself</label><br>
         <textarea rows="4" Cols="40"></textarea>
+        <br><br>
         <button type="submit">Submit</button>
         <button type="reset">Reset</button>
     </form>
